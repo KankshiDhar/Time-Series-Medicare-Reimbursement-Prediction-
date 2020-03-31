@@ -1,3 +1,5 @@
+#Implementing a Two Sample T-test to Find Gender Disparity
+
 #Importing the complete dataset with over 9 million rows (9714896 to be precise)
 project<-read.csv(file.choose())
 View(project)
